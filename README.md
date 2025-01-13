@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ehtesum09@gmail.com**
 
-- ⚡ Fun fact **I Think I am**
+- ⚡ Fun fact **I Think I am Introvert**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
