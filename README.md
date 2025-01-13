@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm AL Ehtesum Korim</h1>
 <h3 align="center">I am passionate in Data Science, AI & Machine Learning</h3>
-<div align="center">
-  <video width="400" controls>
-    <source src="https://drive.google.com/uc?id=1i-xrj-VhLrzgch3zeDQoC1O-ebbCZSgV" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
-
-
+<h3 align="left">Watch my animation:</h3>
+<p align="center">
+  <!-- Link to the video -->
+  <a href="https://pixabay.com/videos/computers-office-desk-windows-rain-150883/" target="_blank">
+    <img src="https://img.icons8.com/ios/452/video.png" alt="Watch Video" width="50" height="50"/>
+    Watch animation video
+  </a>
+  <br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alehtesum&label=Profile%20views&color=0e75b6&style=flat" alt="alehtesum" /> </p>
 
