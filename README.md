@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm AL Ehtesum Korim</h1>
 <h3 align="center">I am passionate in Data Science, AI & Machine Learning</h3>
 <div align="center">
-  <source src="https://www.vecteezy.com/video/51294582-male-worker-working-on-his-laptop-and-answering-questions-2d-cartoon-animation" type="video/mp4">
+  <video width="400" controls>
+    <source src="https://www.vecteezy.com/video/51294582-male-worker-working-on-his-laptop-and-answering-questions-2d-cartoon-animation" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </div>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alehtesum&label=Profile%20views&color=0e75b6&style=flat" alt="alehtesum" /> </p>
 
