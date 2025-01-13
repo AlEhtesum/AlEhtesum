@@ -2,8 +2,7 @@
 <h3 align="center">I am passionate in Data Science, AI & Machine Learning</h3>
 <div align="center">
   <video width="400" controls>
-    <source src="https://www.vecteezy.com/video/51294582-male-worker-working-on-his-laptop-and-answering-questions-2d-cartoon-animation" type="video/mp4">
-    Your browser does not support the video tag.
+  <a href="https://www.vecteezy.com/video/51294582-male-worker-working-on-his-laptop-and-answering-questions-2d-cartoon-animation">Male Worker Working on His Laptop and Answering Questions 2D Cartoon Animation Stock Videos by Vecteezy</a>
   </video>
 </div>
 
