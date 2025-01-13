@@ -2,13 +2,9 @@
 <h3 align="center">I am passionate in Data Science, AI & Machine Learning</h3>
 <h3 align="left">Watch my animation:</h3>
 <p align="center">
-  <!-- Link to the video -->
-  <a href="https://pixabay.com/videos/computers-office-desk-windows-rain-150883/" target="_blank">
-    <img src="https://img.icons8.com/ios/452/video.png" alt="Watch Video" width="50" height="50"/>
-    Watch animation video
-  </a>
-  <br/>
-
+  <!-- Embed the provided GIF -->
+  ![Animation](https://cdn.dribbble.com/users/2520294/screenshots/7269423/alaminxyz.gif)
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alehtesum&label=Profile%20views&color=0e75b6&style=flat" alt="alehtesum" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
