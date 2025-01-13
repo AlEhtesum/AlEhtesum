@@ -2,10 +2,11 @@
 <h3 align="center">I am passionate in Data Science, AI & Machine Learning</h3>
 <div align="center">
   <video width="400" controls>
-    <source src="https://drive.google.com/file/d/1i-xrj-VhLrzgch3zeDQoC1O-ebbCZSgV/view?usp=sharing" type="video/mp4">
+    <source src="https://drive.google.com/uc?id=1i-xrj-VhLrzgch3zeDQoC1O-ebbCZSgV" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alehtesum&label=Profile%20views&color=0e75b6&style=flat" alt="alehtesum" /> </p>
