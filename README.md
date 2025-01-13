@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm AL Ehtesum Korim</h1>
 <h3 align="center">I am passionate in Data Science, AI & Machine Learning</h3>
 <div align="center">
-  <img src="https://cdn.dribbble.com/users/2520294/screenshots/7269423/media/8db02365a1363822ae9f0554cf3d4469.gif" width="400"/>
+  <img src="https://dribbble.com/shots/7269423-Designer-Working-Animation/attachments/223638?mode=media" width="400"/>
 </div>
 
 
