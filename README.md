@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm AL Ehtesum Korim</h1>
 <h3 align="center">I am passionate in Data Science, AI & Machine Learning</h3>
 <div align="center">
-  <img src="https://dribbble.com/shots/7269423-Designer-Working-Animation/attachments/223638?mode=media" width="400"/>
+  <img src="https://cdn.colorexpertsbd.com/wp-content/uploads/2013/04/Tips-for-designers.jpg" width="400"/>
 </div>
 
 
