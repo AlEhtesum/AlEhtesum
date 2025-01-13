@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm AL Ehtesum Korim</h1>
 <h3 align="center">I am passionate in Data Science, AI & Machine Learning</h3>
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="boy-using-computer" width="400"/>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alehtesum&label=Profile%20views&color=0e75b6&style=flat" alt="alehtesum" /> </p>
 
