@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm AL Ehtesum Korim</h1>
 <h3 align="center">I am passionate in Data Science, AI & Machine Learning</h3>
 <div align="center">
-  <img src="https://cdn.colorexpertsbd.com/wp-content/uploads/2013/04/Tips-for-designers.jpg" width="400"/>
+  <img src="https://cdn.colorexpertsbd.com/wp-content/uploads/2013/04/Tips-for-designers.jpg" width="600"/>
 </div>
-
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
