@@ -8,6 +8,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+
+-   Completed B.Sc in Computer Science and Enginieering at East West University, Bangladesh**
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, Artificial Intelligence**
 
 - 👯 I’m looking to collaborate on **AI & Machine Learning**
