@@ -1,3 +1,8 @@
+div align="center">
+    <h1>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+[AL Ehtesum Korim];This+is..;..my+Github..;" alt="Typing SVG"/>
+    </h1>
+</div>
 <h1 align="center">Hi 👋, I'm AL Ehtesum Korim</h1>
 <div align="center">
   <img src="https://cdn.colorexpertsbd.com/wp-content/uploads/2013/04/Tips-for-designers.jpg" width="600"/>
