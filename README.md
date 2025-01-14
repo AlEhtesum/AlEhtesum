@@ -1,8 +1,7 @@
+<h1 align="center">Hi 👋, I'm AL Ehtesum Korim</h1>
 <div align="center">
   <img src="https://cdn.colorexpertsbd.com/wp-content/uploads/2013/04/Tips-for-designers.jpg" width="600"/>
 </div>
-
-<h1 align="center">Hi 👋, I'm AL Ehtesum Korim</h1>
 <h3 align="center">A am passionate in Data Science, AI & Machine Learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alehtesum&label=Profile%20views&color=0e75b6&style=flat" alt="alehtesum" /> </p>
